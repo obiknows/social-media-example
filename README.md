@@ -1,4 +1,6 @@
-# Welcome to Buffalo!
+# Social Media Example Site
+
+This was written by @obiknows.
 
 Thank you for choosing Buffalo for your web development needs.
 
